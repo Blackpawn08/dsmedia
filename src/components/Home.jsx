@@ -118,7 +118,7 @@ const Home = () => {
 
           <div className="home-2-div-2">
             <div>
-              <p className="home-2-div-p-head">Update and Modernize</p>
+              <p className="home-2-div-p-head">Update and Modernise</p>
               <p>
                 Specialise in updating and modernizing
                 websites,
