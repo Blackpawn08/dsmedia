@@ -120,7 +120,7 @@ const Home = () => {
             <div>
               <p className="home-2-div-p-head">Update and Modernize</p>
               <p>
-                Can specialize to specialise in updating and modernizing
+                Specialise in updating and modernizing
                 websites,
                 <br />
                 ensuring they not only catch eyes but also stay relevant in
